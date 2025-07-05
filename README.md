@@ -1,2 +1,1 @@
-# indotante
-indotante
+# [indotante](https://indotante.pages.dev)
